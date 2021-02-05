@@ -4,131 +4,129 @@
 
 ## Website
 
-### [Frontend][Front-repo]
+### [Frontend][front-repo]
 
-[![Front-deployment]][Front-site]
-[![Front-site-status]][Front-site]
-[![Front-ci]][Front-ci-link]
-[![Front-cq-badge]][Front-cq-link]
-[![Front-lgtm-alert-badge]][Front-lgtm-alert-link]
-[![Front-lgtm-quality-badge]][Front-lgtm-quality-link]
-[![Front-time-badge]][Front-time-link]
+[![front-deployment]][front-site]
+[![front-site-status]][front-site]
+[![front-ci]][front-ci-link]
+[![front-cq-badge]][front-cq-link]
+[![front-lgtm-alert-badge]][front-lgtm-alert-link]
+[![front-lgtm-quality-badge]][front-lgtm-quality-link]
+[![front-time-badge]][front-time-link]
 
-### [Backend][Back-repo]
+### [Backend][back-repo]
 
-[![Back-deployment]][Back-site]
-[![Back-site-status]][Back-site]
-[![Back-ci]][Back-ci-link]
-[![Back-cq-badge]][Back-cq-link]
-[![Back-lgtm-alert-badge]][Back-lgtm-alert-link]
-[![Back-lgtm-quality-badge]][Back-lgtm-quality-link]
-[![Back-time-badge]][Back-time-link]
+[![back-deployment]][back-site]
+[![back-site-status]][back-site]
+[![back-ci]][back-ci-link]
+[![back-cq-badge]][back-cq-link]
+[![back-lgtm-alert-badge]][back-lgtm-alert-link]
+[![back-lgtm-quality-badge]][back-lgtm-quality-link]
+[![back-time-badge]][back-time-link]
 
-### [Resource][Resource-repo]
+### [Resource][resource-repo]
 
-[![Resource-cd]][Resource-cd-link]
+[![resource-cd]][resource-cd-link]
 
 -----
 
 ## Data Parsing
 
-### [Parser][Parser-repo]
+### [Parser][parser-repo]
 
-[![Parser-ci]][Parser-ci-link]
-[![Parser-cq-badge]][Parser-cq-link]
-[![Parser-coverage-badge]][Parser-coverage-link]
-[![Parser-lgtm-alert-badge]][Parser-lgtm-alert-link]
-[![Parser-lgtm-quality-badge]][Parser-lgtm-quality-link]
-[![Parser-time-badge]][Parser-time-link]
+[![parser-ci]][parser-ci-link]
+[![parser-cq-badge]][parser-cq-link]
+[![parser-coverage-badge]][parser-coverage-link]
+[![parser-lgtm-alert-badge]][parser-lgtm-alert-link]
+[![parser-lgtm-quality-badge]][parser-lgtm-quality-link]
+[![parser-time-badge]][parser-time-link]
 
-### [Depot][Depot-repo]
+### [Depot][depot-repo]
 
-[![Depot-latest-tag]][Depot-tags]
-![Depot-size]
-[![Depot-deploy-workflow]][Depot-deploy-workflow-link]
-[![Depot-deploy-repo]][Depot-deploy-repo-link]
-[![Depot-deploy-push]][Depot-deploy-push-link]
+[![depot-latest-tag]][depot-tags]
+![depot-size]
+[![depot-deploy-workflow]][depot-deploy-workflow-link]
+[![depot-deploy-repo]][depot-deploy-repo-link]
+[![depot-deploy-push]][depot-deploy-push-link]
 
-### [Audio][Audio-repo]
+### [Audio][audio-repo]
 
-[![Audio-latest-tag]][Audio-tags]
-![Audio-size]
+[![audio-latest-tag]][audio-tags]
+![audio-size]
 
-### [Decompile][Decompile-repo]
+### [Decompile][decompile-repo]
 
-[![Decompile-latest-tag]][Decompile-tags]
-[![Decompile-workflow]][Decompile-workflow-link]
+[![decompile-latest-tag]][decompile-tags]
+[![decompile-workflow]][decompile-workflow-link]
 
 -----
 
-[Front-repo]: https://github.com/RaenonX-DL/dragalia-site-front
-[Front-deployment]: https://pyheroku-badge.herokuapp.com/?app=dragalia-site-front&style=flat-square
-[Front-site]: https://dl.raenonx.cc
-[Front-site-status]: https://img.shields.io/website?down_message=offline&up_message=online&url=https%3A%2F%2Fdl.raenonx.cc
-[Front-cq-link]: https://www.codacy.com/gh/RaenonX-DL/dragalia-site-front/dashboard
-[Front-cq-badge]: https://app.codacy.com/project/badge/Grade/83fa9f649f2e4001b848fc978642ea68
-[Front-ci]: https://github.com/RaenonX-DL/dragalia-site-front/workflows/Node%20CI/badge.svg
-[Front-ci-link]: https://github.com/RaenonX-DL/dragalia-site-front/actions?query=workflow%3A%22Node+CI%22
-[Front-time-link]: https://wakatime.com/badge/github/RaenonX-DL/dragalia-site-front
-[Front-time-badge]: https://wakatime.com/badge/github/RaenonX-DL/dragalia-site-front.svg
-[Front-lgtm-alert-badge]: https://img.shields.io/lgtm/alerts/g/RaenonX-DL/dragalia-site-front.svg?logo=lgtm&logoWidth=18
-[Front-lgtm-alert-link]: https://lgtm.com/projects/g/RaenonX-DL/dragalia-site-front/alerts/
-[Front-lgtm-quality-badge]: https://img.shields.io/lgtm/grade/javascript/g/RaenonX-DL/dragalia-site-front.svg?logo=lgtm&logoWidth=18
-[Front-lgtm-quality-link]: https://lgtm.com/projects/g/RaenonX-DL/dragalia-site-front/context:javascript
+[front-repo]: https://github.com/RaenonX-DL/dragalia-site-front
+[front-deployment]: https://pyheroku-badge.herokuapp.com/?app=dragalia-site-front&style=flat-square
+[front-site]: https://dl.raenonx.cc
+[front-site-status]: https://img.shields.io/website?down_message=offline&up_message=online&url=https%3A%2F%2Fdl.raenonx.cc
+[front-cq-link]: https://www.codacy.com/gh/RaenonX-DL/dragalia-site-front/dashboard
+[front-cq-badge]: https://app.codacy.com/project/badge/Grade/83fa9f649f2e4001b848fc978642ea68
+[front-ci]: https://github.com/RaenonX-DL/dragalia-site-front/workflows/Node%20CI/badge.svg
+[front-ci-link]: https://github.com/RaenonX-DL/dragalia-site-front/actions?query=workflow%3A%22Node+CI%22
+[front-time-link]: https://wakatime.com/badge/github/RaenonX-DL/dragalia-site-front
+[front-time-badge]: https://wakatime.com/badge/github/RaenonX-DL/dragalia-site-front.svg
+[front-lgtm-alert-badge]: https://img.shields.io/lgtm/alerts/g/RaenonX-DL/dragalia-site-front.svg?logo=lgtm&logoWidth=18
+[front-lgtm-alert-link]: https://lgtm.com/projects/g/RaenonX-DL/dragalia-site-front/alerts/
+[front-lgtm-quality-badge]: https://img.shields.io/lgtm/grade/javascript/g/RaenonX-DL/dragalia-site-front.svg?logo=lgtm&logoWidth=18
+[front-lgtm-quality-link]: https://lgtm.com/projects/g/RaenonX-DL/dragalia-site-front/context:javascript
 
-[Back-repo]: https://github.com/RaenonX-DL/dragalia-site-back
-[Back-deployment]: https://pyheroku-badge.herokuapp.com/?app=dragalia-site-back&style=flat-square
-[Back-site]: https://dl-back.raenonx.cc
-[Back-site-status]: https://img.shields.io/website?down_message=offline&up_message=online&url=https%3A%2F%2Fdl-back.raenonx.cc
-[Back-cq-link]: https://www.codacy.com/gh/RaenonX-DL/dragalia-site-back/dashboard
-[Back-cq-badge]: https://app.codacy.com/project/badge/Grade/8710325ebb8049c18a5576aa2feb8567
-[Back-ci]: https://github.com/RaenonX-DL/dragalia-site-back/workflows/Python%20CI/badge.svg
-[Back-ci-link]: https://github.com/RaenonX-DL/dragalia-site-back/actions?query=workflow%3A%22Python+CI%22
-[Back-time-link]: https://wakatime.com/badge/github/RaenonX-DL/dragalia-site-back
-[Back-time-badge]: https://wakatime.com/badge/github/RaenonX-DL/dragalia-site-back.svg
-[Back-lgtm-alert-badge]: https://img.shields.io/lgtm/alerts/g/RaenonX-DL/dragalia-site-back.svg?logo=lgtm&logoWidth=18
-[Back-lgtm-alert-link]: https://lgtm.com/projects/g/RaenonX-DL/dragalia-site-back/alerts/
-[Back-lgtm-quality-badge]: https://img.shields.io/lgtm/grade/python/g/RaenonX-DL/dragalia-site-back.svg?logo=lgtm&logoWidth=18
-[Back-lgtm-quality-link]: https://lgtm.com/projects/g/RaenonX-DL/dragalia-site-back/context:python
+[back-repo]: https://github.com/RaenonX-DL/dragalia-site-back
+[back-deployment]: https://pyheroku-badge.herokuapp.com/?app=dragalia-site-back&style=flat-square
+[back-site]: https://dl-back.raenonx.cc
+[back-site-status]: https://img.shields.io/website?down_message=offline&up_message=online&url=https%3A%2F%2Fdl-back.raenonx.cc
+[back-cq-link]: https://www.codacy.com/gh/RaenonX-DL/dragalia-site-back/dashboard
+[back-cq-badge]: https://app.codacy.com/project/badge/Grade/8710325ebb8049c18a5576aa2feb8567
+[back-ci]: https://github.com/RaenonX-DL/dragalia-site-back/workflows/Python%20CI/badge.svg
+[back-ci-link]: https://github.com/RaenonX-DL/dragalia-site-back/actions?query=workflow%3A%22Python+CI%22
+[back-time-link]: https://wakatime.com/badge/github/RaenonX-DL/dragalia-site-back
+[back-time-badge]: https://wakatime.com/badge/github/RaenonX-DL/dragalia-site-back.svg
+[back-lgtm-alert-badge]: https://img.shields.io/lgtm/alerts/g/RaenonX-DL/dragalia-site-back.svg?logo=lgtm&logoWidth=18
+[back-lgtm-alert-link]: https://lgtm.com/projects/g/RaenonX-DL/dragalia-site-back/alerts/
+[back-lgtm-quality-badge]: https://img.shields.io/lgtm/grade/python/g/RaenonX-DL/dragalia-site-back.svg?logo=lgtm&logoWidth=18
+[back-lgtm-quality-link]: https://lgtm.com/projects/g/RaenonX-DL/dragalia-site-back/context:python
 
-[Parser-repo]:  https://github.com/RaenonX-DL/dragalia-data-parse/
-[Parser-ci]: https://github.com/RaenonX-DL/dragalia-data-parse/workflows/CI/badge.svg
-[Parser-ci-link]: https://github.com/RaenonX-DL/dragalia-data-parse/actions?query=workflow%3ACI
-[Parser-coverage-badge]: https://app.codacy.com/project/badge/Coverage/0053d85597a740c393a6bfd007e4033b
-[Parser-coverage-link]: https://www.codacy.com/gh/RaenonX-DL/dragalia-data-parse/dashboard
-[Parser-cq-badge]: https://app.codacy.com/project/badge/Grade/0053d85597a740c393a6bfd007e4033b
-[Parser-cq-link]: https://www.codacy.com/gh/RaenonX-DL/dragalia-data-parse/dashboard
-[Parser-time-badge]: https://wakatime.com/badge/github/RaenonX-DL/dragalia-data-parse.svg
-[Parser-time-link]: https://wakatime.com/badge/github/RaenonX-DL/dragalia-data-parse
-[Parser-lgtm-alert-badge]: https://img.shields.io/lgtm/alerts/g/RaenonX-DL/dragalia-data-parse.svg?logo=lgtm&logoWidth=18
-[Parser-lgtm-alert-link]: https://lgtm.com/projects/g/RaenonX-DL/dragalia-data-parse/alerts/
-[Parser-lgtm-quality-badge]: https://img.shields.io/lgtm/grade/python/g/RaenonX-DL/dragalia-data-parse.svg?logo=lgtm&logoWidth=18
-[Parser-lgtm-quality-link]: https://lgtm.com/projects/g/RaenonX-DL/dragalia-data-parse/context:python
+[resource-repo]: https://github.com/RaenonX-DL/dragalia-site-resources/
+[resource-cd]: https://github.com/RaenonX-DL/dragalia-site-resources/workflows/Resource%20Deployment/badge.svg
+[resource-cd-link]: https://github.com/RaenonX-DL/dragalia-site-resources/actions?query=workflow%3A%22Resource+Deployment%22
 
-[Resource-repo]: https://github.com/RaenonX-DL/dragalia-site-resources/
-[Resource-cd]: https://github.com/RaenonX-DL/dragalia-site-resources/workflows/Resource%20Deployment/badge.svg
-[Resource-cd-link]: https://github.com/RaenonX-DL/dragalia-site-resources/actions?query=workflow%3A%22Resource+Deployment%22
+[parser-repo]:  https://github.com/RaenonX-DL/dragalia-data-parse/
+[parser-ci]: https://github.com/RaenonX-DL/dragalia-data-parse/workflows/CI/badge.svg
+[parser-ci-link]: https://github.com/RaenonX-DL/dragalia-data-parse/actions?query=workflow%3ACI
+[parser-coverage-badge]: https://app.codacy.com/project/badge/Coverage/0053d85597a740c393a6bfd007e4033b
+[parser-coverage-link]: https://www.codacy.com/gh/RaenonX-DL/dragalia-data-parse/dashboard
+[parser-cq-badge]: https://app.codacy.com/project/badge/Grade/0053d85597a740c393a6bfd007e4033b
+[parser-cq-link]: https://www.codacy.com/gh/RaenonX-DL/dragalia-data-parse/dashboard
+[parser-time-badge]: https://wakatime.com/badge/github/RaenonX-DL/dragalia-data-parse.svg
+[parser-time-link]: https://wakatime.com/badge/github/RaenonX-DL/dragalia-data-parse
+[parser-lgtm-alert-badge]: https://img.shields.io/lgtm/alerts/g/RaenonX-DL/dragalia-data-parse.svg?logo=lgtm&logoWidth=18
+[parser-lgtm-alert-link]: https://lgtm.com/projects/g/RaenonX-DL/dragalia-data-parse/alerts/
+[parser-lgtm-quality-badge]: https://img.shields.io/lgtm/grade/python/g/RaenonX-DL/dragalia-data-parse.svg?logo=lgtm&logoWidth=18
+[parser-lgtm-quality-link]: https://lgtm.com/projects/g/RaenonX-DL/dragalia-data-parse/context:python
 
-[Depot-repo]: https://github.com/RaenonX-DL/dragalia-data-depot/
-[Depot-size]: https://img.shields.io/github/repo-size/RaenonX-DL/dragalia-data-depot
-[Depot-deploy-workflow]: https://github.com/RaenonX-DL/dragalia-data-depot/workflows/Resource%20Deployment%20(Workflow%20Dispatch)/badge.svg
-[Depot-deploy-workflow-link]: https://github.com/RaenonX-DL/dragalia-data-depot/actions?query=workflow%3A%22Resource+Deployment+%28Workflow+Dispatch%29%22
-[Depot-deploy-repo]: https://github.com/RaenonX-DL/dragalia-data-depot/workflows/Resource%20Deployment%20(Repository%20Dispatch)/badge.svg
-[Depot-deploy-repo-link]: https://github.com/RaenonX-DL/dragalia-data-depot/actions?query=workflow%3A%22Resource+Deployment+%28Repository+Dispatch%29%22
-[Depot-deploy-push]: https://github.com/RaenonX-DL/dragalia-data-depot/workflows/Resource%20Deployment%20(Push)/badge.svg
-[Depot-deploy-push-link]: https://github.com/RaenonX-DL/dragalia-data-depot/actions?query=workflow%3A%22Resource+Deployment+%28Push%29%22
-[Depot-latest-tag]: https://img.shields.io/github/v/tag/RaenonX-DL/dragalia-data-depot?label=Manifest%20version
-[Depot-tags]: https://github.com/RaenonX-DL/dragalia-data-depot/tags
+[depot-repo]: https://github.com/RaenonX-DL/dragalia-data-depot/
+[depot-size]: https://img.shields.io/github/repo-size/RaenonX-DL/dragalia-data-depot
+[depot-deploy-workflow]: https://github.com/RaenonX-DL/dragalia-data-depot/workflows/Resource%20Deployment%20(Workflow%20Dispatch)/badge.svg
+[depot-deploy-workflow-link]: https://github.com/RaenonX-DL/dragalia-data-depot/actions?query=workflow%3A%22Resource+Deployment+%28Workflow+Dispatch%29%22
+[depot-deploy-repo]: https://github.com/RaenonX-DL/dragalia-data-depot/workflows/Resource%20Deployment%20(Repository%20Dispatch)/badge.svg
+[depot-deploy-repo-link]: https://github.com/RaenonX-DL/dragalia-data-depot/actions?query=workflow%3A%22Resource+Deployment+%28Repository+Dispatch%29%22
+[depot-deploy-push]: https://github.com/RaenonX-DL/dragalia-data-depot/workflows/Resource%20Deployment%20(Push)/badge.svg
+[depot-deploy-push-link]: https://github.com/RaenonX-DL/dragalia-data-depot/actions?query=workflow%3A%22Resource+Deployment+%28Push%29%22
+[depot-latest-tag]: https://img.shields.io/github/v/tag/RaenonX-DL/dragalia-data-depot?label=Manifest%20version
+[depot-tags]: https://github.com/RaenonX-DL/dragalia-data-depot/tags
 
-[Audio-repo]: https://github.com/RaenonX-DL/dragalia-data-audio
-[Audio-size]: https://img.shields.io/github/repo-size/RaenonX-DL/dragalia-data-audio
-[Audio-latest-tag]: https://img.shields.io/github/v/tag/RaenonX-DL/dragalia-data-audio?label=Manifest%20version
-[Audio-tags]: https://github.com/RaenonX-DL/dragalia-data-audio/tags
+[audio-repo]: https://github.com/RaenonX-DL/dragalia-data-audio
+[audio-size]: https://img.shields.io/github/repo-size/RaenonX-DL/dragalia-data-audio
+[audio-latest-tag]: https://img.shields.io/github/v/tag/RaenonX-DL/dragalia-data-audio?label=Manifest%20version
+[audio-tags]: https://github.com/RaenonX-DL/dragalia-data-audio/tags
 
-[Decompile-repo]: https://github.com/RaenonX-DL/dragalia-decompile
-[Decompile-workflow]: https://github.com/RaenonX-DL/dragalia-decompile/workflows/Decompile/badge.svg
-[Decompile-workflow-link]: https://github.com/RaenonX-DL/dragalia-decompile/actions?query=workflow%3ADecompile
-[Decompile-latest-tag]: https://img.shields.io/github/v/tag/RaenonX-DL/dragalia-decompile?label=App%20version
-[Decompile-tags]: https://github.com/RaenonX-DL/dragalia-decompile/tags
-
-[RaenonX-DL]: https://github.com/RaenonX-DL
+[decompile-repo]: https://github.com/RaenonX-DL/dragalia-decompile
+[decompile-workflow]: https://github.com/RaenonX-DL/dragalia-decompile/workflows/Decompile/badge.svg
+[decompile-workflow-link]: https://github.com/RaenonX-DL/dragalia-decompile/actions?query=workflow%3ADecompile
+[decompile-latest-tag]: https://img.shields.io/github/v/tag/RaenonX-DL/dragalia-decompile?label=App%20version
+[decompile-tags]: https://github.com/RaenonX-DL/dragalia-decompile/tags
