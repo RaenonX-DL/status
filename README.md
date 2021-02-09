@@ -14,15 +14,23 @@
 [![front-lgtm-quality-badge]][front-lgtm-quality-link]
 [![front-time-badge]][front-time-link]
 
-### [Backend][back-repo]
+### [Backend][back-2-repo]
 
 [![back-deployment]][back-site]
 [![back-site-status]][back-site]
-[![back-ci]][back-ci-link]
-[![back-cq-badge]][back-cq-link]
-[![back-lgtm-alert-badge]][back-lgtm-alert-link]
-[![back-lgtm-quality-badge]][back-lgtm-quality-link]
-[![back-time-badge]][back-time-link]
+[![back-2-ci]][back-2-ci-link]
+[![back-2-cq-badge]][back-2-cq-link]
+[![back-2-lgtm-alert-badge]][back-2-lgtm-alert-link]
+[![back-2-lgtm-quality-badge]][back-2-lgtm-quality-link]
+[![back-2-time-badge]][back-2-time-link]
+
+### [API Definition][api-repo]
+
+[![api-ci]][api-ci-link]
+[![api-cq-badge]][api-cq-link]
+[![api-lgtm-alert-badge]][api-lgtm-alert-link]
+[![api-lgtm-quality-badge]][api-lgtm-quality-link]
+[![api-time-badge]][api-time-link]
 
 ### [Resource][resource-repo]
 
@@ -61,6 +69,16 @@
 
 -----
 
+## Legacy
+
+### [Backend (Legacy, in Python Flask)][back-repo]
+
+[![back-ci]][back-ci-link]
+[![back-cq-badge]][back-cq-link]
+[![back-lgtm-alert-badge]][back-lgtm-alert-link]
+[![back-lgtm-quality-badge]][back-lgtm-quality-link]
+[![back-time-badge]][back-time-link]
+
 [front-repo]: https://github.com/RaenonX-DL/dragalia-site-front
 [front-deployment]: https://pyheroku-badge.herokuapp.com/?app=dragalia-site-front&style=flat-square
 [front-site]: https://dl.raenonx.cc
@@ -76,20 +94,32 @@
 [front-lgtm-quality-badge]: https://img.shields.io/lgtm/grade/javascript/g/RaenonX-DL/dragalia-site-front.svg?logo=lgtm&logoWidth=18
 [front-lgtm-quality-link]: https://lgtm.com/projects/g/RaenonX-DL/dragalia-site-front/context:javascript
 
-[back-repo]: https://github.com/RaenonX-DL/dragalia-site-back
+[back-2-repo]: https://github.com/RaenonX-DL/dragalia-site-back-2
 [back-deployment]: https://pyheroku-badge.herokuapp.com/?app=dragalia-site-back&style=flat-square
 [back-site]: https://dl-back.raenonx.cc
 [back-site-status]: https://img.shields.io/website?down_message=offline&up_message=online&url=https%3A%2F%2Fdl-back.raenonx.cc
-[back-cq-link]: https://www.codacy.com/gh/RaenonX-DL/dragalia-site-back/dashboard
-[back-cq-badge]: https://app.codacy.com/project/badge/Grade/8710325ebb8049c18a5576aa2feb8567
-[back-ci]: https://github.com/RaenonX-DL/dragalia-site-back/workflows/Python%20CI/badge.svg
-[back-ci-link]: https://github.com/RaenonX-DL/dragalia-site-back/actions?query=workflow%3A%22Python+CI%22
-[back-time-link]: https://wakatime.com/badge/github/RaenonX-DL/dragalia-site-back
-[back-time-badge]: https://wakatime.com/badge/github/RaenonX-DL/dragalia-site-back.svg
-[back-lgtm-alert-badge]: https://img.shields.io/lgtm/alerts/g/RaenonX-DL/dragalia-site-back.svg?logo=lgtm&logoWidth=18
-[back-lgtm-alert-link]: https://lgtm.com/projects/g/RaenonX-DL/dragalia-site-back/alerts/
-[back-lgtm-quality-badge]: https://img.shields.io/lgtm/grade/python/g/RaenonX-DL/dragalia-site-back.svg?logo=lgtm&logoWidth=18
-[back-lgtm-quality-link]: https://lgtm.com/projects/g/RaenonX-DL/dragalia-site-back/context:python
+[back-2-cq-link]: https://www.codacy.com/gh/RaenonX-DL/dragalia-site-back-2/dashboard
+[back-2-cq-badge]: https://app.codacy.com/project/badge/Grade/a0849e3eb6704b29b1672f26c00ca763
+[back-2-ci]: https://github.com/RaenonX-DL/dragalia-site-back-2/workflows/Node%20CI/badge.svg
+[back-2-ci-link]: https://github.com/RaenonX-DL/dragalia-site-back-2/actions?query=workflow%3A%22Node+CI%22
+[back-2-time-link]: https://wakatime.com/badge/github/RaenonX-DL/dragalia-site-back-2
+[back-2-time-badge]: https://wakatime.com/badge/github/RaenonX-DL/dragalia-site-back-2.svg
+[back-2-lgtm-alert-badge]: https://img.shields.io/lgtm/alerts/g/RaenonX-DL/dragalia-site-back-2.svg?logo=lgtm&logoWidth=18
+[back-2-lgtm-alert-link]: https://lgtm.com/projects/g/RaenonX-DL/dragalia-site-back-2/alerts/
+[back-2-lgtm-quality-badge]: https://img.shields.io/lgtm/grade/javascript/g/RaenonX-DL/dragalia-site-back-2.svg?logo=lgtm&logoWidth=18
+[back-2-lgtm-quality-link]: https://lgtm.com/projects/g/RaenonX-DL/dragalia-site-back-2/context:javascript
+
+[api-repo]: https://github.com/RaenonX-DL/dragalia-site-api-definition
+[api-ci]: https://github.com/RaenonX-DL/dragalia-site-api-definition/workflows/Node%20CI/badge.svg
+[api-ci-link]: https://github.com/RaenonX-DL/dragalia-site-api-definition/actions?query=workflow%3A%22Node+CI%22
+[api-cq-link]: https://www.codacy.com/gh/RaenonX-DL/dragalia-site-api-definition/dashboard
+[api-cq-badge]: https://app.codacy.com/project/badge/Grade/def1798a91b4417e880f32dfeaffee25
+[api-time-link]: https://wakatime.com/badge/github/RaenonX-DL/dragalia-site-api-definition
+[api-time-badge]: https://wakatime.com/badge/github/RaenonX-DL/dragalia-site-api-definition.svg
+[api-lgtm-alert-badge]: https://img.shields.io/lgtm/alerts/g/RaenonX-DL/dragalia-site-api-definition.svg?logo=lgtm&logoWidth=18
+[api-lgtm-alert-link]: https://lgtm.com/projects/g/RaenonX-DL/dragalia-site-api-definition/alerts/
+[api-lgtm-quality-badge]: https://img.shields.io/lgtm/grade/javascript/g/RaenonX-DL/dragalia-site-api-definition.svg?logo=lgtm&logoWidth=18
+[api-lgtm-quality-link]: https://lgtm.com/projects/g/RaenonX-DL/dragalia-site-api-definition/context:javascript
 
 [resource-repo]: https://github.com/RaenonX-DL/dragalia-site-resources/
 [resource-cd]: https://github.com/RaenonX-DL/dragalia-site-resources/workflows/Resource%20Deployment/badge.svg
@@ -130,3 +160,15 @@
 [decompile-workflow-link]: https://github.com/RaenonX-DL/dragalia-decompile/actions?query=workflow%3ADecompile
 [decompile-latest-tag]: https://img.shields.io/github/v/tag/RaenonX-DL/dragalia-decompile?label=App%20version
 [decompile-tags]: https://github.com/RaenonX-DL/dragalia-decompile/tags
+
+[back-repo]: https://github.com/RaenonX-DL/dragalia-site-back
+[back-cq-link]: https://www.codacy.com/gh/RaenonX-DL/dragalia-site-back/dashboard
+[back-cq-badge]: https://app.codacy.com/project/badge/Grade/8710325ebb8049c18a5576aa2feb8567
+[back-ci]: https://github.com/RaenonX-DL/dragalia-site-back/workflows/Python%20CI/badge.svg
+[back-ci-link]: https://github.com/RaenonX-DL/dragalia-site-back/actions?query=workflow%3A%22Python+CI%22
+[back-time-link]: https://wakatime.com/badge/github/RaenonX-DL/dragalia-site-back
+[back-time-badge]: https://wakatime.com/badge/github/RaenonX-DL/dragalia-site-back.svg
+[back-lgtm-alert-badge]: https://img.shields.io/lgtm/alerts/g/RaenonX-DL/dragalia-site-back.svg?logo=lgtm&logoWidth=18
+[back-lgtm-alert-link]: https://lgtm.com/projects/g/RaenonX-DL/dragalia-site-back/alerts/
+[back-lgtm-quality-badge]: https://img.shields.io/lgtm/grade/python/g/RaenonX-DL/dragalia-site-back.svg?logo=lgtm&logoWidth=18
+[back-lgtm-quality-link]: https://lgtm.com/projects/g/RaenonX-DL/dragalia-site-back/context:python
