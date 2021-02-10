@@ -20,6 +20,7 @@
 [![back-site-status]][back-site]
 [![back-2-ci]][back-2-ci-link]
 [![back-2-cq-badge]][back-2-cq-link]
+[![back-2-coverage-badge]][back-2-cq-link]
 [![back-2-lgtm-alert-badge]][back-2-lgtm-alert-link]
 [![back-2-lgtm-quality-badge]][back-2-lgtm-quality-link]
 [![back-2-time-badge]][back-2-time-link]
@@ -44,7 +45,7 @@
 
 [![parser-ci]][parser-ci-link]
 [![parser-cq-badge]][parser-cq-link]
-[![parser-coverage-badge]][parser-coverage-link]
+[![parser-coverage-badge]][parser-cq-link]
 [![parser-lgtm-alert-badge]][parser-lgtm-alert-link]
 [![parser-lgtm-quality-badge]][parser-lgtm-quality-link]
 [![parser-time-badge]][parser-time-link]
@@ -100,6 +101,7 @@
 [back-site-status]: https://img.shields.io/website?down_message=offline&up_message=online&url=https%3A%2F%2Fdl-back.raenonx.cc
 [back-2-cq-link]: https://www.codacy.com/gh/RaenonX-DL/dragalia-site-back-2/dashboard
 [back-2-cq-badge]: https://app.codacy.com/project/badge/Grade/a0849e3eb6704b29b1672f26c00ca763
+[back-2-coverage-badge]: https://app.codacy.com/project/badge/Coverage/a0849e3eb6704b29b1672f26c00ca763
 [back-2-ci]: https://github.com/RaenonX-DL/dragalia-site-back-2/workflows/Node%20CI/badge.svg
 [back-2-ci-link]: https://github.com/RaenonX-DL/dragalia-site-back-2/actions?query=workflow%3A%22Node+CI%22
 [back-2-time-link]: https://wakatime.com/badge/github/RaenonX-DL/dragalia-site-back-2
@@ -129,7 +131,6 @@
 [parser-ci]: https://github.com/RaenonX-DL/dragalia-data-parse/workflows/CI/badge.svg
 [parser-ci-link]: https://github.com/RaenonX-DL/dragalia-data-parse/actions?query=workflow%3ACI
 [parser-coverage-badge]: https://app.codacy.com/project/badge/Coverage/0053d85597a740c393a6bfd007e4033b
-[parser-coverage-link]: https://www.codacy.com/gh/RaenonX-DL/dragalia-data-parse/dashboard
 [parser-cq-badge]: https://app.codacy.com/project/badge/Grade/0053d85597a740c393a6bfd007e4033b
 [parser-cq-link]: https://www.codacy.com/gh/RaenonX-DL/dragalia-data-parse/dashboard
 [parser-time-badge]: https://wakatime.com/badge/github/RaenonX-DL/dragalia-data-parse.svg
