@@ -68,18 +68,6 @@
 [![decompile-latest-tag]][decompile-tags]
 [![decompile-workflow]][decompile-workflow-link]
 
------
-
-## Legacy
-
-### [Backend (Legacy, in Python Flask)][back-repo]
-
-[![back-ci]][back-ci-link]
-[![back-cq-badge]][back-cq-link]
-[![back-lgtm-alert-badge]][back-lgtm-alert-link]
-[![back-lgtm-quality-badge]][back-lgtm-quality-link]
-[![back-time-badge]][back-time-link]
-
 [front-repo]: https://github.com/RaenonX-DL/dragalia-site-front
 [front-deployment]: https://pyheroku-badge.herokuapp.com/?app=dragalia-site-front&style=flat-square
 [front-site]: https://dl.raenonx.cc
