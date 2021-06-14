@@ -7,24 +7,59 @@
 ### [Frontend][front-repo]
 
 [![front-deployment]][front-site]
-[![front-site-status]][front-site]
 [![front-ci]][front-ci-link]
-[![front-cq-badge]][front-cq-link]
-[![front-coverage-badge]][front-cq-link]
-[![front-lgtm-alert-badge]][front-lgtm-alert-link]
-[![front-lgtm-quality-badge]][front-lgtm-quality-link]
 [![front-time-badge]][front-time-link]
 
-### [Backend][back-2-repo]
+**Site Status**
+
+[![front-site-status]][front-site]
+[![front-site-response]][front-site]
+
+[![front-site-day]][front-site]
+[![front-site-week]][front-site]
+[![front-site-month]][front-site]
+
+> These refresh every 5 minutes.
+
+**Code Quality**
+
+[![front-lgtm-alert-badge]][front-lgtm-alert-link]
+[![front-lgtm-quality-badge]][front-lgtm-quality-link]
+[![front-lgtm-loc-badge]][front-lgtm-alert-link]
+
+Main | Dev
+:---: | :---:
+[![front-grade-badge-main]][front-cq-link-main] | [![front-grade-badge-dev]][front-cq-link-dev]
+[![front-coverage-badge-main]][front-cq-link-main] | [![front-coverage-badge-dev]][front-cq-link-dev]
+[![front-cypress-badge-main]][front-cypress-link] | [![front-cypress-badge-dev]][front-cypress-link]
+
+### [Backend][back-repo]
 
 [![back-deployment]][back-site]
+[![back-ci]][back-ci-link]
+[![back-time-badge]][back-time-link]
+
+**Site Status**
+
 [![back-site-status]][back-site]
-[![back-2-ci]][back-2-ci-link]
-[![back-2-cq-badge]][back-2-cq-link]
-[![back-2-coverage-badge]][back-2-cq-link]
-[![back-2-lgtm-alert-badge]][back-2-lgtm-alert-link]
-[![back-2-lgtm-quality-badge]][back-2-lgtm-quality-link]
-[![back-2-time-badge]][back-2-time-link]
+[![back-site-response]][back-site]
+
+[![back-site-day]][back-site]
+[![back-site-week]][back-site]
+[![back-site-month]][back-site]
+
+> These refresh every 5 minutes.
+
+**Code Quality**
+
+[![back-lgtm-alert-badge]][back-lgtm-alert-link]
+[![back-lgtm-quality-badge]][back-lgtm-quality-link]
+[![back-lgtm-loc-badge]][back-lgtm-alert-link]
+
+Main | Dev
+:---: | :---:
+[![back-grade-badge-main]][back-cq-link-main] | [![back-grade-badge-dev]][back-cq-link-dev]
+[![back-coverage-badge-main]][back-cq-link-main] | [![back-coverage-badge-dev]][back-cq-link-dev]
 
 ### [API Definition][api-repo]
 
@@ -49,6 +84,7 @@
 [![parser-coverage-badge]][parser-cq-link]
 [![parser-lgtm-alert-badge]][parser-lgtm-alert-link]
 [![parser-lgtm-quality-badge]][parser-lgtm-quality-link]
+[![parser-lgtm-loc-badge]][parser-lgtm-quality-link]
 [![parser-time-badge]][parser-time-link]
 
 ### [Depot][depot-repo]
@@ -70,36 +106,55 @@
 [![decompile-workflow]][decompile-workflow-link]
 
 [front-repo]: https://github.com/RaenonX-DL/dragalia-site-front
-[front-deployment]: https://pyheroku-badge.herokuapp.com/?app=dragalia-site-front&style=flat-square
+[front-deployment]: https://pyheroku-badge.herokuapp.com/?app=dragalia-site-front
 [front-site]: https://dl.raenonx.cc
-[front-site-status]: https://img.shields.io/website?down_message=offline&up_message=online&url=https%3A%2F%2Fdl.raenonx.cc
-[front-cq-link]: https://www.codacy.com/gh/RaenonX-DL/dragalia-site-front/dashboard
-[front-cq-badge]: https://app.codacy.com/project/badge/Grade/83fa9f649f2e4001b848fc978642ea68
-[front-coverage-badge]: https://app.codacy.com/project/badge/Coverage/83fa9f649f2e4001b848fc978642ea68
 [front-ci]: https://github.com/RaenonX-DL/dragalia-site-front/workflows/Node%20CI/badge.svg
 [front-ci-link]: https://github.com/RaenonX-DL/dragalia-site-front/actions?query=workflow%3A%22Node+CI%22
-[front-time-link]: https://wakatime.com/badge/github/RaenonX-DL/dragalia-site-front
 [front-time-badge]: https://wakatime.com/badge/github/RaenonX-DL/dragalia-site-front.svg
-[front-lgtm-alert-badge]: https://img.shields.io/lgtm/alerts/g/RaenonX-DL/dragalia-site-front.svg?logo=lgtm&logoWidth=18
+[front-time-link]: https://wakatime.com/badge/github/RaenonX-DL/dragalia-site-front
+[front-site-status]: https://badgen.net/uptime-robot/status/m787223686-f1d10f084c18dd5d5389f456&cache=300
+[front-site-response]: https://badgen.net/uptime-robot/response/m787223686-f1d10f084c18dd5d5389f456&cache=300
+[front-site-day]: https://badgen.net/uptime-robot/day/m787223686-f1d10f084c18dd5d5389f456?label=uptime%20in%2024%20hrs&cache=300
+[front-site-week]: https://badgen.net/uptime-robot/week/m787223686-f1d10f084c18dd5d5389f456?label=uptime%20in%207%20days&cache=300
+[front-site-month]: https://badgen.net/uptime-robot/month/m787223686-f1d10f084c18dd5d5389f456?label=uptime%20in%201%20month&cache=300
+[front-lgtm-alert-badge]: https://badgen.net/lgtm/alerts/g/RaenonX-DL/dragalia-site-front/javascript?icon=lgtm
 [front-lgtm-alert-link]: https://lgtm.com/projects/g/RaenonX-DL/dragalia-site-front/alerts/
-[front-lgtm-quality-badge]: https://img.shields.io/lgtm/grade/javascript/g/RaenonX-DL/dragalia-site-front.svg?logo=lgtm&logoWidth=18
+[front-lgtm-quality-badge]: https://badgen.net/lgtm/grade/g/RaenonX-DL/dragalia-site-front/javascript?icon=lgtm
 [front-lgtm-quality-link]: https://lgtm.com/projects/g/RaenonX-DL/dragalia-site-front/context:javascript
+[front-lgtm-loc-badge]: https://badgen.net/lgtm/lines/g/RaenonX-DL/dragalia-site-front/javascript?icon=lgtm
+[front-cq-link-main]: https://www.codacy.com/gh/RaenonX-DL/dragalia-site-front/dashboard?branch=main
+[front-cq-link-dev]: https://www.codacy.com/gh/RaenonX-DL/dragalia-site-front/dashboard?branch=dev
+[front-grade-badge-main]: https://app.codacy.com/project/badge/Grade/83fa9f649f2e4001b848fc978642ea68?branch=main
+[front-grade-badge-dev]: https://app.codacy.com/project/badge/Grade/83fa9f649f2e4001b848fc978642ea68?branch=dev
+[front-coverage-badge-main]: https://app.codacy.com/project/badge/Coverage/83fa9f649f2e4001b848fc978642ea68?branch=main
+[front-coverage-badge-dev]: https://app.codacy.com/project/badge/Coverage/83fa9f649f2e4001b848fc978642ea68?branch=dev
+[front-cypress-badge-main]: https://img.shields.io/endpoint?url=https://dashboard.cypress.io/badge/detailed/wgo7xq/main&logo=cypress
+[front-cypress-badge-dev]: https://img.shields.io/endpoint?url=https://dashboard.cypress.io/badge/detailed/wgo7xq/dev&logo=cypress
+[front-cypress-link]: https://dashboard.cypress.io/projects/wgo7xq/runs
 
-[back-2-repo]: https://github.com/RaenonX-DL/dragalia-site-back-2
-[back-deployment]: https://pyheroku-badge.herokuapp.com/?app=dragalia-site-back&style=flat-square
-[back-site]: https://dl-back.raenonx.cc
-[back-site-status]: https://img.shields.io/website?down_message=offline&up_message=online&url=https%3A%2F%2Fdl-back.raenonx.cc
-[back-2-cq-link]: https://www.codacy.com/gh/RaenonX-DL/dragalia-site-back-2/dashboard
-[back-2-cq-badge]: https://app.codacy.com/project/badge/Grade/a0849e3eb6704b29b1672f26c00ca763
-[back-2-coverage-badge]: https://app.codacy.com/project/badge/Coverage/a0849e3eb6704b29b1672f26c00ca763
-[back-2-ci]: https://github.com/RaenonX-DL/dragalia-site-back-2/workflows/Node%20CI/badge.svg
-[back-2-ci-link]: https://github.com/RaenonX-DL/dragalia-site-back-2/actions?query=workflow%3A%22Node+CI%22
-[back-2-time-link]: https://wakatime.com/badge/github/RaenonX-DL/dragalia-site-back-2
-[back-2-time-badge]: https://wakatime.com/badge/github/RaenonX-DL/dragalia-site-back-2.svg
-[back-2-lgtm-alert-badge]: https://img.shields.io/lgtm/alerts/g/RaenonX-DL/dragalia-site-back-2.svg?logo=lgtm&logoWidth=18
-[back-2-lgtm-alert-link]: https://lgtm.com/projects/g/RaenonX-DL/dragalia-site-back-2/alerts/
-[back-2-lgtm-quality-badge]: https://img.shields.io/lgtm/grade/javascript/g/RaenonX-DL/dragalia-site-back-2.svg?logo=lgtm&logoWidth=18
-[back-2-lgtm-quality-link]: https://lgtm.com/projects/g/RaenonX-DL/dragalia-site-back-2/context:javascript
+[back-repo]: https://github.com/RaenonX-DL/dragalia-site-back
+[back-deployment]: https://pyheroku-badge.herokuapp.com/?app=dragalia-site-back
+[back-site]: https://dl.raenonx.cc
+[back-ci]: https://github.com/RaenonX-DL/dragalia-site-back-2/workflows/Node%20CI/badge.svg
+[back-ci-link]: https://github.com/RaenonX-DL/dragalia-site-back-2/actions?query=workflow%3A%22Node+CI%22
+[back-time-badge]: https://wakatime.com/badge/github/RaenonX-DL/dragalia-site-back-2.svg
+[back-time-link]: https://wakatime.com/badge/github/RaenonX-DL/dragalia-site-back-2
+[back-site-status]: https://badgen.net/uptime-robot/status/m787223687-0bc3d1f09f7bf2b07ed95c85&cache=300
+[back-site-response]: https://badgen.net/uptime-robot/response/m787223687-0bc3d1f09f7bf2b07ed95c85&cache=300
+[back-site-day]: https://badgen.net/uptime-robot/day/m787223687-0bc3d1f09f7bf2b07ed95c85?label=uptime%20in%2024%20hrs&cache=300
+[back-site-week]: https://badgen.net/uptime-robot/week/m787223687-0bc3d1f09f7bf2b07ed95c85?label=uptime%20in%207%20days&cache=300
+[back-site-month]: https://badgen.net/uptime-robot/month/m787223687-0bc3d1f09f7bf2b07ed95c85?label=uptime%20in%201%20month&cache=300
+[back-lgtm-alert-badge]: https://badgen.net/lgtm/alerts/g/RaenonX-DL/dragalia-site-back-2/javascript?icon=lgtm
+[back-lgtm-alert-link]: https://lgtm.com/projects/g/RaenonX-DL/dragalia-site-back-2/alerts/
+[back-lgtm-quality-badge]: https://badgen.net/lgtm/grade/g/RaenonX-DL/dragalia-site-back-2/javascript?icon=lgtm
+[back-lgtm-quality-link]: https://lgtm.com/projects/g/RaenonX-DL/dragalia-site-back-2/context:javascript
+[back-lgtm-loc-badge]: https://badgen.net/lgtm/lines/g/RaenonX-DL/dragalia-site-back-2/javascript?icon=lgtm
+[back-cq-link-main]: https://www.codacy.com/gh/RaenonX-DL/dragalia-site-back-2/dashboard?branch=main
+[back-cq-link-dev]: https://www.codacy.com/gh/RaenonX-DL/dragalia-site-back-2/dashboard?branch=dev
+[back-grade-badge-main]: https://app.codacy.com/project/badge/Grade/a0849e3eb6704b29b1672f26c00ca763?branch=main
+[back-grade-badge-dev]: https://app.codacy.com/project/badge/Grade/a0849e3eb6704b29b1672f26c00ca763?branch=dev
+[back-coverage-badge-main]: https://app.codacy.com/project/badge/Coverage/a0849e3eb6704b29b1672f26c00ca763?branch=main
+[back-coverage-badge-dev]: https://app.codacy.com/project/badge/Coverage/a0849e3eb6704b29b1672f26c00ca763?branch=dev
 
 [api-repo]: https://github.com/RaenonX-DL/dragalia-site-api-definition
 [api-ci]: https://github.com/RaenonX-DL/dragalia-site-api-definition/workflows/Node%20CI/badge.svg
@@ -129,6 +184,7 @@
 [parser-lgtm-alert-link]: https://lgtm.com/projects/g/RaenonX-DL/dragalia-data-parse/alerts/
 [parser-lgtm-quality-badge]: https://img.shields.io/lgtm/grade/python/g/RaenonX-DL/dragalia-data-parse.svg?logo=lgtm&logoWidth=18
 [parser-lgtm-quality-link]: https://lgtm.com/projects/g/RaenonX-DL/dragalia-data-parse/context:python
+[parser-lgtm-loc-badge]: https://badgen.net/lgtm/lines/g/RaenonX-DL/dragalia-data-parse
 
 [depot-repo]: https://github.com/RaenonX-DL/dragalia-data-depot/
 [depot-size]: https://img.shields.io/github/repo-size/RaenonX-DL/dragalia-data-depot
@@ -151,15 +207,3 @@
 [decompile-workflow-link]: https://github.com/RaenonX-DL/dragalia-decompile/actions?query=workflow%3ADecompile
 [decompile-latest-tag]: https://img.shields.io/github/v/tag/RaenonX-DL/dragalia-decompile?label=App%20version
 [decompile-tags]: https://github.com/RaenonX-DL/dragalia-decompile/tags
-
-[back-repo]: https://github.com/RaenonX-DL/dragalia-site-back
-[back-cq-link]: https://www.codacy.com/gh/RaenonX-DL/dragalia-site-back/dashboard
-[back-cq-badge]: https://app.codacy.com/project/badge/Grade/8710325ebb8049c18a5576aa2feb8567
-[back-ci]: https://github.com/RaenonX-DL/dragalia-site-back/workflows/Python%20CI/badge.svg
-[back-ci-link]: https://github.com/RaenonX-DL/dragalia-site-back/actions?query=workflow%3A%22Python+CI%22
-[back-time-link]: https://wakatime.com/badge/github/RaenonX-DL/dragalia-site-back
-[back-time-badge]: https://wakatime.com/badge/github/RaenonX-DL/dragalia-site-back.svg
-[back-lgtm-alert-badge]: https://img.shields.io/lgtm/alerts/g/RaenonX-DL/dragalia-site-back.svg?logo=lgtm&logoWidth=18
-[back-lgtm-alert-link]: https://lgtm.com/projects/g/RaenonX-DL/dragalia-site-back/alerts/
-[back-lgtm-quality-badge]: https://img.shields.io/lgtm/grade/python/g/RaenonX-DL/dragalia-site-back.svg?logo=lgtm&logoWidth=18
-[back-lgtm-quality-link]: https://lgtm.com/projects/g/RaenonX-DL/dragalia-site-back/context:python
