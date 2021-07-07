@@ -1,8 +1,8 @@
 # Dragalia Services Status
 
------
-
 ## Website
+
+[Website status page][site-stats] powered by UptimeRobot.
 
 ### [Frontend][front-repo]
 
@@ -103,6 +103,8 @@ Main | Dev
 
 [![decompile-latest-tag]][decompile-tags]
 [![decompile-workflow]][decompile-workflow-link]
+
+[site-stats]: https://stats.uptimerobot.com/ZrOmvCMZ12
 
 [front-repo]: https://github.com/RaenonX-DL/dragalia-site-front
 [front-deployment]: https://pyheroku-badge.herokuapp.com/?app=dragalia-site-front
