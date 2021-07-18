@@ -6,7 +6,6 @@
 
 ### [Frontend][front-repo]
 
-[![front-deployment]][front-site]
 [![front-ci]][front-ci-link]
 [![front-time-badge]][front-time-link]
 
@@ -34,7 +33,6 @@ Main | Dev
 
 ### [Backend][back-repo]
 
-[![back-deployment]][back-site]
 [![back-ci]][back-ci-link]
 [![back-time-badge]][back-time-link]
 
@@ -107,10 +105,9 @@ Main | Dev
 [site-stats]: https://stats.uptimerobot.com/ZrOmvCMZ12
 
 [front-repo]: https://github.com/RaenonX-DL/dragalia-site-front
-[front-deployment]: https://pyheroku-badge.herokuapp.com/?app=dragalia-site-front
 [front-site]: https://dl.raenonx.cc
-[front-ci]: https://github.com/RaenonX-DL/dragalia-site-front/workflows/Node%20CI/badge.svg
-[front-ci-link]: https://github.com/RaenonX-DL/dragalia-site-front/actions?query=workflow%3A%22Node+CI%22
+[front-ci]: https://github.com/RaenonX-DL/dragalia-site-front/workflows/CI%20%26%20CD/badge.svg
+[front-ci-link]: https://github.com/RaenonX-DL/dragalia-site-front/actions/workflows/app.yml
 [front-time-badge]: https://wakatime.com/badge/github/RaenonX-DL/dragalia-site-front.svg
 [front-time-link]: https://wakatime.com/badge/github/RaenonX-DL/dragalia-site-front
 [front-site-status]: https://badgen.net/uptime-robot/status/m787223686-f1d10f084c18dd5d5389f456?cache=300
@@ -134,10 +131,9 @@ Main | Dev
 [front-cypress-link]: https://dashboard.cypress.io/projects/wgo7xq/runs
 
 [back-repo]: https://github.com/RaenonX-DL/dragalia-site-back
-[back-deployment]: https://pyheroku-badge.herokuapp.com/?app=dragalia-site-back
 [back-site]: https://dl.raenonx.cc
-[back-ci]: https://github.com/RaenonX-DL/dragalia-site-back-2/workflows/Node%20CI/badge.svg
-[back-ci-link]: https://github.com/RaenonX-DL/dragalia-site-back-2/actions?query=workflow%3A%22Node+CI%22
+[back-ci]: https://github.com/RaenonX-DL/dragalia-site-back-2/workflows/CI%20%26%20CD/badge.svg
+[back-ci-link]: https://github.com/RaenonX-DL/dragalia-site-back-2/actions/workflows/nodejs.yml
 [back-time-badge]: https://wakatime.com/badge/github/RaenonX-DL/dragalia-site-back-2.svg
 [back-time-link]: https://wakatime.com/badge/github/RaenonX-DL/dragalia-site-back-2
 [back-site-status]: https://badgen.net/uptime-robot/status/m787223687-0bc3d1f09f7bf2b07ed95c85?cache=300
