@@ -4,6 +4,8 @@
 
 [Website status page][site-stats] powered by UptimeRobot.
 
+[SLA Report][site-sla] powered by New Relic.
+
 ### [Frontend][front-repo]
 
 [![front-time-badge]][front-time-link]
@@ -121,6 +123,7 @@ Main | Dev
 [![decompile-workflow]][decompile-workflow-link]
 
 [site-stats]: https://stats.uptimerobot.com/ZrOmvCMZ12
+[site-sla]: https://synthetics.newrelic.com/report/FBhfu
 
 [front-repo]: https://github.com/RaenonX-DL/dragalia-site-front
 [front-site]: https://dl.raenonx.cc
