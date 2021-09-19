@@ -107,11 +107,14 @@ Main | Dev
 ### [Downloader][downloader-repo]
 
 [![downloader-ci]][downloader-ci-link]
-[![downloader-cq-badge]][downloader-cq-link]
 [![downloader-lgtm-alert-badge]][downloader-lgtm-alert-link]
 [![downloader-lgtm-quality-badge]][downloader-lgtm-quality-link]
 [![downloader-lgtm-loc-badge]][downloader-lgtm-quality-link]
 [![downloader-time-badge]][downloader-time-link]
+
+Main | Dev
+:---: | :---:
+[![downloader-cq-badge-main]][downloader-cq-link-main] | [![downloader-cq-badge-dev]][downloader-cq-link-dev]
 
 ### [Depot][depot-repo]
 
@@ -224,8 +227,10 @@ Main | Dev
 [downloader-repo]: https://github.com/RaenonX-DL/dragalia-asset-downloader-2/
 [downloader-ci]: https://github.com/RaenonX-DL/dragalia-asset-downloader-2/workflows/CI/badge.svg
 [downloader-ci-link]: https://github.com/RaenonX-DL/dragalia-asset-downloader-2/actions?query=workflow%3ACI
-[downloader-cq-badge]: https://app.codacy.com/project/badge/Grade/455468d9c9184f88af1249e82cb2c4ad
-[downloader-cq-link]: https://www.codacy.com/gh/RaenonX-DL/dragalia-asset-downloader-2/dashboard
+[downloader-cq-badge-main]: https://app.codacy.com/project/badge/Grade/455468d9c9184f88af1249e82cb2c4ad?branch=main
+[downloader-cq-badge-dev]: https://app.codacy.com/project/badge/Grade/455468d9c9184f88af1249e82cb2c4ad?branch=dev
+[downloader-cq-link-main]: https://www.codacy.com/gh/RaenonX-DL/dragalia-asset-downloader-2/dashboard?branch=main
+[downloader-cq-link-dev]: https://www.codacy.com/gh/RaenonX-DL/dragalia-asset-downloader-2/dashboard?branch=dev
 [downloader-time-badge]: https://wakatime.com/badge/github/RaenonX-DL/dragalia-asset-downloader-2.svg
 [downloader-time-link]: https://wakatime.com/badge/github/RaenonX-DL/dragalia-asset-downloader-2
 [downloader-lgtm-alert-badge]: https://img.shields.io/lgtm/alerts/g/RaenonX-DL/dragalia-asset-downloader-2.svg?logo=lgtm&logoWidth=18
